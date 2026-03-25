@@ -334,7 +334,7 @@ Karena program harus menampilkan hasil dari kallkulasi saya memilih untuk membac
 
 #### Kendala
 
-Tidak ada kendala.]
+Tidak ada kendala.
 
 ### Soal 3
 
