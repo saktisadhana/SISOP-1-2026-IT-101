@@ -142,17 +142,17 @@ Bagian ini hanya berfungsi untuk menunjukkan seluruh variabel yang telah didata 
 #### Output
 
 1. Menjalankan mode `a`
-![[Pasted image 20260323192908.png]]
+![Pasted image 20260323192908](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323192908.png)
 2. Menjalankan mode `b`
-![[Pasted image 20260323191457.png]]
+![Pasted image 20260323191457](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323191457.png)
 3. Menjalankan mode `c`
-![[Pasted image 20260323191514.png]]
+![Pasted image 20260323191514](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323191514.png)
 4. Menjalankan mode `d`
-![[Pasted image 20260323191540.png]]
+![Pasted image 20260323191540](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323191540.png)
 5. Menjalankan mode `e`
-![[Pasted image 20260323191603.png]]
+![Pasted image 20260323191603](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323191603.png)
 6. Menjalankan mode selain `a, b, c, d, atau e`
-![[Pasted image 20260323191619.png]]
+![Pasted image 20260323191619](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260323191619.png)
 #### Kendala
 
 Tidak ada kendala.
@@ -324,13 +324,13 @@ Karena program harus menampilkan hasil dari kallkulasi saya memilih untuk membac
 #### Output
 
 1. `parserkoordinat.sh`
-![[Pasted image 20260324100805.png]]
+![Pasted image 20260324100805](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260324100805.png)
 2. `titik-penting.txt`
-![[Pasted image 20260324100850.png]]
+![Pasted image 20260324100850](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260324100850.png)
 3. `nemupusaka.sh`
-![[Pasted image 20260324101452.png]]
+![Pasted image 20260324101452](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260324101452.png)
 4. `posisipusaka.txt`
-![[Pasted image 20260324101529.png]]
+![Pasted image 20260324101529](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260324101529.png)
 
 #### Kendala
 
