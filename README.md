@@ -848,8 +848,16 @@ Sesuai dengan instruksi program juga dapat memiliki flag yaitu `--check-tagihan`
  ![[Pasted image 20260329235807.png]]
  5. Update Status Penghuni![[Pasted image 20260329235847.png]]
  6. Cetak Laporan Keuangan![[Pasted image 20260329235857.png]]
- 7. Kelola Cron (Pengingat Tagihan)
+ 7. Kelola Cron (Pengingat Tagihan)![[Pasted image 20260330000927.png]]
+ ![[Pasted image 20260330000950.png]]
+ ![[Pasted image 20260330001001.png]]
+ ![[Pasted image 20260330001014.png]]
+ ![[Pasted image 20260330001027.png]]
+ ![[Pasted image 20260330001041.png]]
+ 
  8. Exit Program
+ ![[Pasted image 20260330001056.png]]
+ 
 #### Kendala
 
 Tidak ada kendala
