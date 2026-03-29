@@ -840,23 +840,30 @@ fi
 Sesuai dengan instruksi program juga dapat memiliki flag yaitu `--check-tagihan`
 #### Output
 
-1. Main Menu![[Pasted image 20260329235502.png]]
-2.  Tambah Penghuni Baru![[Pasted image 20260329235636.png]]
- 3. Hapus Penghuni![[Pasted image 20260329235654.png]]
- ![[Pasted image 20260329235725.png]]
- 4. Tampilkan Daftar Penghuni ![[Pasted image 20260329235548.png]]
- ![[Pasted image 20260329235807.png]]
- 5. Update Status Penghuni![[Pasted image 20260329235847.png]]
- 6. Cetak Laporan Keuangan![[Pasted image 20260329235857.png]]
- 7. Kelola Cron (Pengingat Tagihan)![[Pasted image 20260330000927.png]]
- ![[Pasted image 20260330000950.png]]
- ![[Pasted image 20260330001001.png]]
- ![[Pasted image 20260330001014.png]]
- ![[Pasted image 20260330001027.png]]
- ![[Pasted image 20260330001041.png]]
- 
- 8. Exit Program
- ![[Pasted image 20260330001056.png]]
+1. Main Menu
+![Pasted image 20260329235502](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235502.png)
+2. Tambah Penghuni Baru
+![Pasted image 20260329235636](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235636.png)
+3. Hapus Penghuni
+![Pasted image 20260329235654](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235654.png)
+![Pasted image 20260329235725](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235725.png)
+4. Tampilkan Daftar Penghuni
+![Pasted image 20260329235548](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235548.png)
+![Pasted image 20260329235807](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235807.png)
+5. Update Status Penghuni
+![Pasted image 20260329235847](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235847.png)
+6. Cetak Laporan Keuangan
+![Pasted image 20260329235857](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260329235857.png)
+7. Kelola Cron (Pengingat Tagihan)
+![Pasted image 20260330000927](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330000927.png)
+![Pasted image 20260330000950](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330000950.png)
+![Pasted image 20260330001001](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330001001.png)
+![Pasted image 20260330001014](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330001014.png)
+![Pasted image 20260330001027](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330001027.png)
+![Pasted image 20260330001041](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330001041.png)
+
+8. Exit Program
+![Pasted image 20260330001056](https://raw.githubusercontent.com/saktisadhana/SISOP-1-2026-IT-101/main/Assets/Pasted%20image%2020260330001056.png)
  
 #### Kendala
 
